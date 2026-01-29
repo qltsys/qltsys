@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://qualitysys.com.br/new/">
+  <a href="https://qualitysys.com.br/">
     <img
       src="https://qualitysys.com.br/new/wp-content/uploads/2022/01/quality-system-logo-v1.webp"
       alt="Quality Systems"
@@ -21,7 +21,7 @@
 <p align="center">Gestão completa do associado, operação e experiência do cliente — do acesso ao consumo.</p>
 
 <p align="center">
-  <a href="https://qualitysys.com.br/new/">
+  <a href="https://qualitysys.com.br">
     <img src="https://img.shields.io/badge/Site-Quality%20Systems-0b3d5e?style=for-the-badge" alt="Site" />
   </a>
   <a href="mailto:contato@qualitysys.com.br">
@@ -151,7 +151,7 @@ Robôs concierge e garçom para elevar a experiência do cliente e diferenciar o
 ---
 
 ## Contato
-- **Site:** https://qualitysys.com.br/new/
+- **Site:** https://qualitysys.com.br
 - **E‑mail:** contato@qualitysys.com.br
 - **Telefone (BR):** +55 (34) 3292-4700
 - **Telefone (EUA):** +1 (713) 714-5485
