@@ -1,50 +1,79 @@
 <!-- QLTSYS Org Profile README -->
 <div align="center">
+  <a href="https://qualitysys.com.br">
+    <img src="https://qualitysys.com.br/new/wp-content/uploads/2022/01/quality-system-logo-v1.webp" alt="Quality Systems" height="72" />
+  </a>
 
-<a href="https://qualitysys.com.br">
-  <img src="https://qualitysys.com.br/new/wp-content/uploads/2022/01/quality-system-logo-v1.webp" alt="Quality Systems" height="72" />
-</a>
+  # Quality Systems
+  **Excelência tecnológica em automação para clubes e parques**
 
-# Quality Systems
-## Tecnologia que organiza, automatiza e acelera a gestão
+  Gestão completa do associado, operação e experiência do cliente — do acesso ao consumo.
 
-Soluções digitais para transformar processos, reduzir retrabalho e dar visibilidade real à operação.
-
-<a href="https://qualitysys.com.br">Visitar site</a> ·
-<a href="https://qualitysys.com.br/contato">Falar com vendas</a> ·
-<a href="https://qualitysys.com.br/solucoes">Ver soluções</a>
-
+  <a href="https://qualitysys.com.br">Visitar site</a> ·
+  <a href="mailto:contato@qualitysys.com.br">Falar com a equipe</a>
 </div>
 
 ---
 
-## O que entregamos
-- **Gestão com clareza** — dashboards objetivos para decisão rápida.
-- **Processos padronizados** — fluxos automatizados e rastreáveis.
-- **Eficiência operacional** — menos tarefas manuais e mais escala.
+## Quem somos
+Fundada em 1990, a Quality Systems atua há mais de 33 anos na gestão e automação tecnológica de clubes e parques, com mais de 150 clientes atendidos em diversos estados do Brasil.
 
-## Por que a Quality Systems
-- **Implantação guiada** para acelerar o time‑to‑value.
-- **Tecnologia segura** com foco em confiabilidade.
-- **Suporte próximo** para evolução contínua.
+**Presença**  
+Brasil (Uberlândia/MG, Jardim Paulistano/SP) e EUA (Austin/TX).
 
-## Para quem é
-Empresas que precisam de **controle, compliance e produtividade** em áreas administrativas, operacionais ou de qualidade.
+---
 
-## Soluções
-- **[Nome da Solução A]** — 1 linha com benefício.
-- **[Nome da Solução B]** — 1 linha com benefício.
-- **[Nome da Solução C]** — 1 linha com benefício.
+## Soluções (visão geral)
+**Gestão do associado, convidado e day use**
+- Vendas de títulos, convites e ingressos
+- Agendamentos de espaços e atividades
+- Matrículas, avaliações e cobranças recorrentes
 
-## Resultados esperados
-- Redução de tempo em atividades repetitivas
-- Mais visibilidade sobre indicadores críticos
-- Melhor padronização e governança
+**Gestão financeira, compras, estoque e patrimônio**
+- Contas a pagar/receber, conciliação e fluxo de caixa
+- Cobrança online (Boleto, PIX, débito e recorrência)
+- Controle de estoque e bens imobilizados
+
+**Autoatendimento**
+- Identificação por biometria, NFC ou QR Code
+- Totens, pulseiras inteligentes e equipamentos integrados
+
+**Gestão de vendas**
+- Sistema web e mobile (PDV, POS e totens)
+- Cardápios personalizados e vouchers online
+- Integrações fiscais (ECF, NFC-e, NF-e)
+
+**Controle de acesso**
+- Integração com catracas, torniquetes, cancelas e portões
+- Gestão de acesso por setor e regras personalizadas
+- Estatísticas de frequência para previsões e segurança
+
+**Tecnologia e segurança**
+- Plataforma 100% web e responsiva
+- Perfis de acesso, auditoria e backup em nuvem
+- Integração via API com certificado de segurança
+- Banco de dados em SQL Server
+
+---
+
+## App do Sócio (Android e iOS)
+- Carteirinha digital
+- 2ª via de boletos, recargas e check-out
+- Convites, ingressos, agendamentos e check-ins
+- Matrículas, ficha de treino e notificações
+- Área institucional e agenda de eventos
+
+---
+
+## Inovações
+**Quality Tech** — robôs concierge e garçom para elevar a experiência do cliente.
+
+---
 
 ## Contato
-- **Site:** https://qualitysys.com.br  
 - **E-mail:** contato@qualitysys.com.br  
-- **LinkedIn:** https://linkedin.com/company/qualitysys  
+- **Telefone (BR):** +55 (34) 3292-4700  
+- **Telefone (EUA):** +1 (713) 714-5485
 
 ---
 
