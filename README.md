@@ -136,7 +136,7 @@ Aplicativo personalizado com a identidade visual do clube:
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.qualitysys.qualityclube">
-    <img src="https://play.google.com/intl/pt-BR/badges/images/generic/pt-br_badge_web_generic.png" height="60" alt="Google Play" />
+    <img src="https://play.google.com/intl/pt-BR/badges/images/generic/pt-br_badge_web_generic.png" height="45" alt="Google Play" />
   </a>
   <a href="https://apps.apple.com/br/app/quality-clube/id6736533165">
     <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="45" alt="App Store" />
